@@ -1,0 +1,8 @@
+2019-10-15 10:04:58.9373 ERROR StackTrace: RatesCache.GetRateFromCache
+<>c__DisplayClass7_0.<Get_Rate_From_Cache_To_Not_Exist>b__0, Type:ChangeRateCache.Exceptions.RateNotFoundInCacheException, Message:Rate To not found in cache
+2019-10-15 10:32:02.6643 ERROR StackTrace: RatesCache.GetRateFromCache
+<>c__DisplayClass7_0.<Get_Rate_From_Cache_To_Not_Exist>b__0, Type:ChangeRateCache.Exceptions.RateNotFoundInCacheException, Message:Rate To not found in cache
+2019-10-15 12:13:59.8268 ERROR StackTrace: RatesCache.GetRateFromCache
+<>c__DisplayClass7_0.<Get_Rate_From_Cache_To_Not_Exist>b__0, Type:ChangeRateCache.Exceptions.RateNotFoundInCacheException, Message:Rate To not found in cache
+2019-10-15 16:34:44.9323 ERROR StackTrace: RatesCache.GetRateFromCache
+<>c__DisplayClass7_0.<Get_Rate_From_Cache_To_Not_Exist>b__0, Type:ChangeRateCache.Exceptions.RateNotFoundInCacheException, Message:Rate To not found in cache

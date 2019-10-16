@@ -1,0 +1,10 @@
+2019-10-14 17:21:15.4052 ERROR StackTrace: RatesCache.GetRateFromCache
+CountryControllerTest.Get_RateInfo, Type:ChangeRateCache.Exceptions.RateNotFoundInCacheException, Message:Rate From not found in cache
+2019-10-14 22:11:39.0921 ERROR StackTrace: RatesCache.GetRateFromCache
+<>c__DisplayClass7_0.<Get_Rate_From_Cache_To_Not_Exist>b__0, Type:ChangeRateCache.Exceptions.RateNotFoundInCacheException, Message:Rate To not found in cache
+2019-10-14 22:12:57.2022 ERROR StackTrace: RatesCache.GetRateFromCache
+<>c__DisplayClass7_0.<Get_Rate_From_Cache_To_Not_Exist>b__0, Type:ChangeRateCache.Exceptions.RateNotFoundInCacheException, Message:Rate To not found in cache
+2019-10-14 22:55:02.4829 ERROR StackTrace: RatesCache.GetRateFromCache
+RatesController.Get, Type:ChangeRateCache.Exceptions.RateNotFoundInCacheException, Message:Rate From not found in cache
+2019-10-14 22:55:02.5079 ERROR StackTrace: RatesController.Get
+RateControllerTest.Test, Type:ChangeRateCache.Exceptions.RateNotFoundInCacheException, Message:Rate From not found in cache
