@@ -1,1 +1,2 @@
-# RateCache
+
+Сервис для получения курса валют с https://openexchangerates.org С помощью Hangfire создаем джобу на пероначальное заполнение кэша (используем MemoryCache) и на периодическое его обновление (ChangeRateCache.Startup) При обновлении кэша старые данные из кэша убираем в локальную БД на MSSQL, CodeFirst (Используем UnitOfWork. Значимые всего две таблицы - RateFroms и RateToes, на каждую валюту из RateFrom приходятся все возможные валюты обмена в RateToes) Логирование ошибок на NLog, юнит-тесты на NUnit
